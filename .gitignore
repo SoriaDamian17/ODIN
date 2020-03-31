@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+cache/smarty/
+cache/smarty/*
+=======
+cache/smarty/compile/*
+>>>>>>> master

@@ -1,0 +1,44 @@
+Release Notes for PrestaShop 1.6 Module Sincro
+--------------------------------
+####################################
+# Metodos Realease
+####################################
+
+Fixed bugs:
+
+[NF] Nueva Funcionalidad
+[Error]
+[Warning]
+
+[-] INSTALLER : [IN]
+[-] SECURITY : [S]
+[-] UNINSTALLER : [UN]
+[-] FORM : [FM]
+[-] SINCRO : [SN]
+[-] ASISTFUNCTION : [AF]
+[-] ASISTMODEL : [AM]
+
+####################################
+# Fin de Metodos
+####################################
+
+####################################
+# v3.5
+####################################
+
+[SN] [warning] PS_CATEGORIAS Tiempo para regenerar caracteristicas.
+[SN] [error] PS_CATEGORIAS nombre de categoria.
+
+[SN] [error] SP_PRODUCTOS nombre de producto.
+[SN] [error] SP_PRODUCTOS descripcion corta de producto.
+[SN] [error] SP_PRODUCTOS asociasiones doble rubro.
+
+[SN] [NF] PS_TARJETA sincronizacion de tarjetas y planes.
+
+[SN] [error] SP_CLIENTE activar cliente.
+
+[SN] SP_CLIENTE Error al activar cliente.
+
+####################################
+# Fin de Realease
+####################################

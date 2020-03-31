@@ -1,0 +1,38 @@
+App ID: 152158119883526
+
+Secret Key: kOhwfKY50W0vs45aU8uM9JsByhLyoJrU
+
+Name:ML-ODIN
+
+Short Name:mlodin
+
+Description:ES una Aplicacion para poder integrar productos,pedidos y consultas con mercadolibre y nuestra plataforma Order Data Integration
+
+Redirect URI:http://localhost/OrderDataIntegration
+
+Authorized Javascript Origins: www.odin.com.ar
+
+Scopes: offline_access read write
+
+Notifications Callback URL:http://localhost/OrderDataIntegration
+
+Topics: items payments pictures questions orders created_orders
+
+//Para Obtener Datos de token e id
+http://developers.mercadolibre.com/es/autenticacion-y-autorizacion/#access_token
+
+
+Usuario Test
+"id":120506781,
+    "nickname":"TEST0548",
+    "password":"qatest328",
+    "site_status":"active"
+
+Usuario Damian
+Access Token: APP_USR-152158119883526-110113-217b057af29523b291629b07ecbdc979__H_M__-114392816
+User Id:114392816
+Nickname:"DAMINMATISSORIA"
+First Name:"Damián Matiás"
+Last Name:"Soria"
+Email:"damian.soria.web@gmail.com"
+Site:"MLA"

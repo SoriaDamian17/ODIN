@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RubrosClasificadosLaVoz>
+  <camaras-digitales>
+    <rubro>
+      <id>571</id>
+      <name>CAMARAS DIGITALES</name>
+      <branch>CAMARAS DIGITALES</branch>
+    </rubro>
+  </camaras-digitales>
+  <aires-acondicionados>
+    <rubro>
+      <id>570</id>
+      <name>2000 A 3000</name>
+      <branch>2000 A 3000</branch>
+    </rubro>
+  </aires-acondicionados>
+  <test>
+    <rubro>
+      <id>573</id>
+      <name>test_sub</name>
+      <branch>test_sub</branch>
+    </rubro>
+  </test>
+</RubrosClasificadosLaVoz>

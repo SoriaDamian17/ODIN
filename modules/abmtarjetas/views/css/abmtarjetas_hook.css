@@ -1,0 +1,3 @@
+label[for="firstname"],#firstname,label[for="lastname"],#lastname{
+ display:none;
+}

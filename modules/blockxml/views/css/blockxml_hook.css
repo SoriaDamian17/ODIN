@@ -1,0 +1,47 @@
+/*body{overflow:hidden;}*/
+#promociones{
+    position: fixed;
+    float: left;
+    top:0;
+    left:0;
+    margin:0;
+    height:100%;
+    width:100%;
+    background:rgba(0,0,0,0.5);
+    z-index:99999;
+}
+.promociones{
+    margin-top: 15%;
+    width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative; 
+    /*position: absolute;
+    margin-top:30%;    
+    margin-left: auto;
+    margin-right: auto;
+    float: left;
+    left:50%;
+    top:25%;
+    width:450px;
+    height:450px;
+    text-align: center;
+    */
+}
+.close{
+    position: absolute;
+    z-index: 999;
+    right: -10px;
+    top: -20px;
+    float:right;
+}
+
+.close i{
+  font-size: 14px;
+  color:#fff!important;
+}
+
+.ads p{
+    text-align: center;
+}
+

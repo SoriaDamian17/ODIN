@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+  <ad>
+    <ads_type>&lt;![CDATA[Seleccione el tipo de aviso]]</ads_type>
+    <id>&lt;![CDATA[1]]</id>
+    <type>&lt;![CDATA[571]]</type>
+    <title>&lt;![CDATA[12 Mp 6 1 Cm Lcd Zoom X5]]</title>
+    <content>&lt;![CDATA[]]</content>
+    <region>&lt;![CDATA[Córdoba]]</region>
+    <city>&lt;![CDATA[Cordoba]]</city>
+    <phone>&lt;![CDATA[03512442105]]</phone>
+    <email>&lt;![CDATA[info@flexxus.com.ar]]</email>
+    <operation>&lt;![CDATA[Seleccione el tipo de operacion]]</operation>
+    <status>&lt;![CDATA[new]]</status>
+    <price>&lt;![CDATA[600.760000]]</price>
+    <payment>&lt;![CDATA[Seleccione la Forma de pago]]</payment>
+    <district_zone>&lt;![CDATA[Norte]]</district_zone>
+    <latitude>&lt;![CDATA[25.948969]]</latitude>
+    <longitude>&lt;![CDATA[-80.226439]]</longitude>
+    <pictures></pictures>
+    <store>&lt;![CDATA[]]</store>
+    <marca>&lt;![CDATA[Kodak]]</marca>
+    <modify>&lt;![CDATA[2015-11-05 17:29:13]]</modify>
+  </ad>
+  <ad>
+    <ads_type>&lt;![CDATA[Seleccione el tipo de aviso]]</ads_type>
+    <id>&lt;![CDATA[2]]</id>
+    <type>&lt;![CDATA[570]]</type>
+    <title>&lt;![CDATA[Aire Acondicionado Split 2500w  Frio Calor Ga]]</title>
+    <content>&lt;![CDATA[]]</content>
+    <region>&lt;![CDATA[Córdoba]]</region>
+    <city>&lt;![CDATA[Cordoba]]</city>
+    <phone>&lt;![CDATA[03512442105]]</phone>
+    <email>&lt;![CDATA[info@flexxus.com.ar]]</email>
+    <operation>&lt;![CDATA[Seleccione el tipo de operacion]]</operation>
+    <status>&lt;![CDATA[new]]</status>
+    <price>&lt;![CDATA[5371.900000]]</price>
+    <payment>&lt;![CDATA[Seleccione la Forma de pago]]</payment>
+    <district_zone>&lt;![CDATA[Norte]]</district_zone>
+    <latitude>&lt;![CDATA[25.948969]]</latitude>
+    <longitude>&lt;![CDATA[-80.226439]]</longitude>
+    <pictures></pictures>
+    <store>&lt;![CDATA[]]</store>
+    <marca>&lt;![CDATA[Trane]]</marca>
+    <modify>&lt;![CDATA[2015-11-02 11:15:06]]</modify>
+  </ad>
+</data>

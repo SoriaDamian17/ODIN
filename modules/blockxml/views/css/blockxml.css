@@ -1,0 +1,35 @@
+#owl-demo .item{
+  border:1px solid #ccc;
+  padding: 20px 0px;
+  margin: 5px;
+  color: #999;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  text-align: center;
+  height:250px;
+  -webkit-box-shadow: rgba(0,0,0,0.1) 0 2px 0,#fff 0 0 0 3px inset;
+    box-shadow: rgba(0,0,0,0.1) 0 2px 0,#fff 0 0 0 3px inset;
+}
+
+#owl-demo .item .panel-heading small{
+  text-transform:lowercase;
+  font-size: 10px;
+  font-weight: bold;
+}
+
+#owl-demo .item img{
+padding:15px;
+}
+
+.customNavigation{
+  text-align: center;
+}
+.customNavigation a{
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}

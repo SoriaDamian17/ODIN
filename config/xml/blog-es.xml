@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ES - Blog Ecommerce de PrestaShop</title>
+	<atom:link href="http://www.prestashop.com/blog/es/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.prestashop.com/blog/es</link>
+	<description></description>
+	<lastBuildDate>Tue, 02 Feb 2016 15:00:24 +0000</lastBuildDate>
+	<language>es-ES</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.8.1</generator>
+	<item>
+		<title>Guía rápida de introducción al Growth Hacking</title>
+		<link>https://www.prestashop.com/blog/es/guia-rapida-de-introduccion-growth-hacking/</link>
+		<comments>https://www.prestashop.com/blog/es/guia-rapida-de-introduccion-growth-hacking/#comments</comments>
+		<pubDate>Tue, 02 Feb 2016 15:00:24 +0000</pubDate>
+		<dc:creator><![CDATA[Los amigos de Preston]]></dc:creator>
+				<category><![CDATA[Asociados PrestaShop]]></category>
+		<category><![CDATA[Consejos E-commerce]]></category>
+		<category><![CDATA[Tendencias E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/es/?p=13849</guid>
+		<description><![CDATA[<p>Growth Hacking es quizás uno de los conceptos más revolucionarios y que han creado más impacto en el mundo del marketing digital y las startups en los últimos años.  ¿Es ilegal? ¿Hacen magia? ¿Es un remplazo del marketer tradicional? ¿Todas las empresas necesitan un Growth Hacker? ¿Se trata de recetas predefinidas e infalibles? Éstas y [...]</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/guia-rapida-de-introduccion-growth-hacking/">Guía rápida de introducción al Growth Hacking</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><b>Growth Hacking es quizás uno de los conceptos más revolucionarios</b> y que han creado más impacto en el mundo del marketing digital y las startups en los últimos años.  ¿Es ilegal? ¿Hacen magia? ¿Es un remplazo del marketer tradicional? ¿Todas las empresas necesitan un Growth Hacker? ¿Se trata de recetas predefinidas e infalibles?</p>
+<p>Éstas y muchas más son las preguntas que inevitablemente han acompañado al crecimiento tan disparatado de este concepto.</p>
+<p>Por eso, antes de escribir sobre algunas técnicas de Growth Hacking aplicables al comercio electrónico o hipótesis de otras que podrían funcionar, <b>he querido aclarar un poco qué es un Growth Hacker y cúales son sus competencias</b>.<span id="more-13849"></span></p>
+<h2>El perfil del Growth Hacker</h2>
+<p>En 2010<b>, Sean Ellis</b>, un gran profesional que había ayudado a muchas empresas a conseguir un crecimiento muy rápido, <b>se encontró frustrado a la hora de nombrar el perfil que buscaba para contratar a alguien que realizase su trabajo</b>, que continuase con sus labores.</p>
+<p>Fue entonces cuando <b>Sean se dio cuenta que los perfiles existentes no definían su obsesión por el crecimiento como único objetivo</b>, sus capacidades analíticas, sus habilidades sociales, su enfoque basado en el método científico y sus conocimientos multidisciplinares.</p>
+<p>Así, no tuvo más remedio que inventarse <b>un concepto que se ha convertido en uno de los perfiles profesionales más demandados por las startups</b> y, en general, por casi todas las empresas con presencia en la red.</p>
+<p>Pero, <b>¿cuál es la diferencia principal con un Marketer?</b> Sean explicó que uno no reemplaza a otro, en absoluto. Sin embargo, en el mundo de las startups (que es ahí donde el Growth Hacking tiene su origen), el crecimiento es el principal objetivo en sus fases iniciales. En esos momentos tan críticos, las startups no necesitan manejar grandes equipos de marketing, ni construir una marca potente. Necesitan aumentar su número de clientes lo más rápido posible.</p>
+<p>Por tanto, <b>un Growth Hacker se caracteriza por su obsesión en una única métrica: el crecimiento</b> (de clientes, de usuarios, de retorno de inversión).</p>
+<p>Y, para conseguirlo, <b>combina un sin fin de conocimientos y disciplinas, aplica métodos, analiza, formula hipótesis y realiza pruebas en busca de su impacto en esa métrica única</b>.</p>
+<p>En definitiva, <b>un Growth Hacker…</b></p>
+<ul>
+<li>Está obsesionado con una única métrica, la que indica el crecimiento.<b></b></li>
+<li>Tiene un conocimiento muy amplio en muchas materias pero sobresale o destaca en unas pocas.<b></b></li>
+<li>Entiende la tecnología y cómo funciona internet y las nuevas plataformas aunque no tiene por qué programar regularmente o saber hacerlo.<b></b></li>
+<li>Apoya su trabajo en un gran conocimiento de analítica, tanto para validar sus hipótesis como pare encontrar patrones u oportunidades.<b></b></li>
+<li>También tiene capacidad creativa y la habilidad de enfocar cada proceso desde un punto de vista crítico y curioso. Siempre se pregunta ¿y si no fuese así?.</li>
+</ul>
+<h2>El proceso en el Growth Hacking</h2>
+<p><b>Uno de los principales errores</b> que todos cometemos al iniciarnos en el mundo del Growth Hacking <b>es pensar que se trata de recetas mágicas, de reproducir técnicas que han logrado resultados inimaginables en otros proyectos</b>, realizadas por otras personas, con clientes totalmente distintos, quizás en países lejanos. ¿Me sigues?</p>
+<p>Desde mi punto de vista, <b>conocer técnicas que a otros les han funcionado forma parte de nuestro entrenamiento</b>, es una forma genial de aumentar nuestras posibilidades creativas (si, la creatividad al final es una asociación de ideas así que, a más ideas, más posibilidades creativas) <b>pero no debería “atontarnos”.</b></p>
+<p>Puesto que cada empresa tiene sus fortalezas, su propia identidad, naturaleza y hueco en el mercado, <b>es ilógico pensar en términos tan generales de “lo que funciona a uno, funciona a todos”</b>.</p>
+<p>El Growth Hacker debe ser capaz de <b>encontrar soluciones de crecimiento siguiendo un proceso continuo</b> de elaboración de hipótesis, medición de resultados, conclusiones y vuelta a empezar.</p>
+<p>Ésta podría ser una secuencia simplificada de los pasos de este proceso:</p>
+<ol>
+<li><b>Auto-conocimiento</b>. Todo debe empezar por un profundo conocimiento de tu producto y de tu empresa, desde una perspectiva realista, identificando tus fortalezas, tu gran valor y para quien es aún más importante. Pero no solo eso, también tienes que conocer al máximo todos los procesos que intervienen en los procesos de negocio y sobre todo aquellos que tienen que ver con tus clientes.</li>
+<li><b>Definición de objetivos</b>. Ésta es quizás una de las más difíciles y a la vez más importantes. Los objetivos que se marca un Growth Hacker son alcanzables, medibles y dependientes de acciones concretas. “Aumentar el número de nuevos clientes” no es un objetivo para este proceso, es demasiado general. El Growth Hacker identificará puntos que impactan en ese objetivo y marcará objetivos más concretos, más directos, para conseguir un impacto en el general desde una perspectiva más cercana a su círculo de competencia. Además, estos objetivos deben ser medibles en el sentido de que debe haber una forma inequívoca y concreta de medir el impacto de una acción concreta.</li>
+<li><b>Aplicación de mejoras</b>. La hipótesis llega en esta fase y es también aquí cuando un Growth Hacker implementa o pone en práctica esa táctica para ver si realmente funciona o no. En este caso, el Growth Hacker puede influir no solo en los canales de comunicación de la empresa, sino también proponer cambios en los procesos o incluso en el propio packaging o producto.</li>
+<li><b>Obtención de resultados</b>. Tras lanzar su prueba, tendrá que estudiar detenidamente los resultados y su impacto en las métricas que ha definido en puntos anteriores. El resto de impactos no serán del interés del Growth Hacker.</li>
+<li><b>Conclusiones</b>. Por último, analizando esos datos obtenidos, se deberá llegar a unas conclusiones que determinen la validez o no de los cambios aplicados y si la hipótesis se cumple (y en qué grado).</li>
+<li><b>Vuelta a empezar</b>. Sin embargo, como en todo proceso continuo, por muy buenos que sean los resultados, esto no acabará aquí. En el mejor de los casos, el siguiente cambio vendrá condicionado por una mejora de los cambios aplicados y, en el peor, por descartar completamente la idea y empezar con una nueva.</li>
+</ol>
+<h2>¿Es aplicable el Growth Hacking en Comercio Electrónico?</h2>
+<p>Como ves, <b>el concepto de Growth Hacking nació en el mundo de las startups americanas</b> y más concretamente en el mundo de las herramientas o proyectos web de tipo SaaS (Software as a Service).</p>
+<p>Si navegas por la red buscando técnicas de Growth Hacking (¡cuidado que eso puede atontarte!), verás que la mayoría de ellas hacen referencia a grandes proyectos relacionados con Apps de servicio, con herramientas.</p>
+<p><b>En el tema del comercio electrónico y si nos referimos a proyectos más pequeños</b>, las cosas empiezan a emborronarse y surgen dudas de si todo esto del Growth Hacking es o no aplicable en nuestro caso.</p>
+<p>Así que, inevitablemente, cuando comenzamos con un proyecto de comercio electrónico, nos surge <b>la cuestión de si necesitamos o no un Growth Hacker y de si sus técnicas serán aplicables a nuestro proyecto</b>. ¿Verdad?</p>
+<p>Pues bien, he querido terminar este primer artículo con una <b>lista de razones por las que un Growth Hacking</b> (o aplicar ese modo de pensar y actuar) <b>será bueno para tu proyecto</b>, tanto si lo estás empezando como si deseas impulsarlo:</p>
+<ul>
+<li>El Growth Hacking <b>te puede ayudar a cambiar aspectos más allá de la comunicación</b>, tales como el producto, el packaging o la propia tienda online para conseguir que se produzcan más conversiones y atraer a más usuarios.</li>
+<li>El método que se emplea en <b>Growth Hacking consiste en una mejora continua y justificada</b>, requisito imprescindible para que cualquier proyecto continúe creciendo.</li>
+<li><b>Un Growth Hacker es capaz de sugerir acciones de Inbound Marketing</b> que aúnen áreas como el SEO, relaciones públicas, social media, Email Marketing, etc.</li>
+<li>La automatización es clave para construir sistemas de crecimiento que trabajen solos (Growth Machines) y es <b>un Growth Hacker quien será capaz de confeccionarlo</b>.</li>
+</ul>
+<h2>Conclusiones finales</h2>
+<p>En este artículo he intentado realizar <b>una pequeña aproximación al mundo del Growth Hacking</b> antes de profundizar más en ejemplos o fórmulas para aplicarlo en el comercio electrónico.</p>
+<p>Sin intención de “sentar cátedra”, ya que <b>en mi humilde opinión aún debería considerarme más Padawan que Jedi</b>, te he mostrado lo que para mí es más importante de esta ciencia, por encima de ejemplos y técnicas que puedas leer por ahí, el modo de actuar y pensar del Growth Hacking.</p>
+<p>Si hay una única idea que extraer de este artículo, esta debería ser que <b>tu proyecto es único y, por tanto, lo que hagas para potenciar su crecimiento debe surgir de tu propio estudio, tus propios experimentos y tus propias conclusiones</b>.</p>
+<p>¡Y ya está! ¿Sabes? Creo que ha sido la vez que más nervioso me he puesto al escribir un post. ¡Para PrestaShop!!! Ya lo saben hasta las titas de las primas de mi mami. ¡Menudo honor! Por eso he ido más al grano y es que no me ha salido ninguna de mis “coletillas” de humor típicas. Pero, ahora que lo he acabado y más relajado, toma ya que pareado, Víctor ha regresado.</p>
+<p><b>Espero que hayas disfrutado del post. ¡Nos vemos en el próximo!</b></p>
+<p>Sobre el autor:<br />
+<a href="https://www.prestashop.com/blog/es/files/2016/01/Victor.jpg"><img class="wp-image-13837 alignleft" style="margin-top: -2px;margin-bottom: -14px" alt="Victor_campuzano" src="https://www.prestashop.com/blog/es/files/2016/01/Victor.jpg" width="80" height="80" /></a><b>Víctor Campuzano</b> – Director de Marketing Online en <a href="http://www.grupographic.com/servicios/servicios-de-marketing-online/">Grupo Graphic</a>, Blogger en <a href="http://www.vcgs.net/blog/">Vcgs.net</a>, formador y speaker.</p>
+<p>Twitter: <a href="http://www.twitter.com/vicampuzano">@vicampuzano</a>.</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/guia-rapida-de-introduccion-growth-hacking/">Guía rápida de introducción al Growth Hacking</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/es/guia-rapida-de-introduccion-growth-hacking/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Encuesta del lector: ¡Queremos conocer tu opinión!</title>
+		<link>https://www.prestashop.com/blog/es/encuesta-del-lector-queremos-conocer-tu-opinion/</link>
+		<comments>https://www.prestashop.com/blog/es/encuesta-del-lector-queremos-conocer-tu-opinion/#comments</comments>
+		<pubDate>Thu, 28 Jan 2016 08:30:24 +0000</pubDate>
+		<dc:creator><![CDATA[Julie Liu]]></dc:creator>
+				<category><![CDATA[Actualidad PrestaShop]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/es/?p=13922</guid>
+		<description><![CDATA[<p>Hola, miembros de la comunidad PrestaShop: Llevamos a cabo revisiones periódicas para conocer vuestra opinión sobre nuestro blog. Hoy queremos saber qué contenidos os gustaría ver más en 2016. Ayúdanos a mejorar realizando esta breve encuesta. Tardarás sólo 2 minutos. ¡Completa la encuesta! ¡Gracias y feliz venta!</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/encuesta-del-lector-queremos-conocer-tu-opinion/">Encuesta del lector: ¡Queremos conocer tu opinión!</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Hola, miembros de la comunidad PrestaShop: </p>
+<p>Llevamos a cabo revisiones periódicas para conocer vuestra opinión sobre nuestro blog. </p>
+<p>Hoy queremos saber qué contenidos os gustaría ver más en 2016. Ayúdanos a mejorar realizando esta breve encuesta. Tardarás sólo 2 minutos.</p>
+<div class="text-center" style="margin-bottom: 20px"><a href="https://jliu08ps.typeform.com/to/kW31Ms" target="_blank" style="font-size:23px">¡Completa la encuesta!</a></div>
+<p>¡Gracias y feliz venta! </p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/encuesta-del-lector-queremos-conocer-tu-opinion/">Encuesta del lector: ¡Queremos conocer tu opinión!</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/es/encuesta-del-lector-queremos-conocer-tu-opinion/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Caso de éxito: Indiecolors &#8211; el arte también es online</title>
+		<link>https://www.prestashop.com/blog/es/caso-de-exito-indiecolors-el-arte-tambien-es-online/</link>
+		<comments>https://www.prestashop.com/blog/es/caso-de-exito-indiecolors-el-arte-tambien-es-online/#comments</comments>
+		<pubDate>Wed, 27 Jan 2016 15:00:43 +0000</pubDate>
+		<dc:creator><![CDATA[Jhon Suarez Pardo]]></dc:creator>
+				<category><![CDATA[Caso de éxito]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/es/?p=13637</guid>
+		<description><![CDATA[<p>Hoy estamos con Juan Carlos Pareja, artista y cofundador de indiecolors.com, portal de arte online. Juan Carlos, cuéntanos un poco sobre IndieColors. IndieColors es un colectivo de artistas. Ofrecemos lo que mejor sabemos hacer: Venta de Arte y Diseño e Impresión Fine Art Giclée Profesional para Artistas, Fotógrafos y Galerías de Arte. Años de dedicación profesional [...]</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/caso-de-exito-indiecolors-el-arte-tambien-es-online/">Caso de éxito: Indiecolors &#8211; el arte también es online</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Hoy estamos con Juan Carlos Pareja, artista y cofundador de indiecolors.com, portal de arte online.<span id="more-13637"></span></p>
+<h2><span style="color: #59bbc4">Juan Carlos, cuéntanos un poco sobre IndieColors.</span></h2>
+<p>IndieColors es un colectivo de artistas. Ofrecemos lo que mejor sabemos hacer: Venta de Arte y Diseño e Impresión Fine Art Giclée Profesional para Artistas, Fotógrafos y Galerías de Arte. Años de dedicación profesional al Arte unidos a la más alta calidad de impresión.</p>
+<p>Producimos <strong>obras artísticas para venta y decoración</strong> con la mejor técnica del momento, con más de 200 años de permanencia sobre papeles Fine Art y sin ningún tipo de desviación de color.</p>
+<p>IndieColors no solo es tienda Online. Contamos con un potente <strong><span style="color: #993300"><a href="http://www.indiecolors.com/blog"><span style="color: #993300">Blog</span></a></span></strong>. un punto de encuentro entre mentes abiertas, creativas y diferentes. Acercando y divulgando nuevos conceptos e inquietudes que se están produciendo en este momento en el mundo del Arte, Pensamiento y Sociedad; cambios tan demandados en buena parte del mundo.</p>
+<h2><span style="color: #59bbc4">¿Cómo y por qué elegiste PrestaShop? ¿Cómo hiciste para que la gente realizara en tu web la personalización de sus fotografías?</span></h2>
+<p>Tras analizar muy detenidamente las opciones existentes en el mercado para el montaje de nuestra primera e-commerce, nos decidimos desde el inicio por PrestaShop. Nos atrajo la idea, el concepto modular de esta potente herramienta.  Con el paso del tiempo nos dimos cuenta de que la elección ha sido más que acertada. PrestaShop ofrece la versatilidad y flexibilidad que un <strong>espíritu inquieto</strong> necesita. Al ser artistas visuales no solemos aceptar soluciones que coarten la creatividad.</p>
+<p>Permite una gestión muy abierta de la página sin tener que recurrir a terceros constantemente.</p>
+<p>Para la creación de la personalización de las fotografías de nuestros clientes, recurrimos a módulos creados al efecto y a la propia estructura de PrestaShop.</p>
+<h2><span style="color: #59bbc4">¿En qué momento inició el éxito en tu web? ¿Qué estrategias implantaste para seguir creciendo?</span></h2>
+<p>La honestidad y máximo respeto en nuestro servicio. Realmente tratamos a la gente de igual forma que nos gusta que nos traten a nosotros. Eso empezó a funcionar desde el primer momento. La gente lo capta todo y muy rápido. Somos realmente exigentes con lo que hacemos.<strong> Solo aplicamos soluciones que satisfagan</strong>, sobre todo a nuestros clientes que, con el tiempo comienzan a ser amigos y cómplices.</p>
+<p>Otra estrategia fue recurrir al asesoramiento de Grey Group Spain, que nos guio por el camino de un marketing encaminado a mostrar lo que realmente somos, sin imposturas. A fluir con nuestras ideas y a divertirnos con lo que hacemos.</p>
+<h2><span style="color: #59bbc4">¿Cómo ves la evolución del consumidor español en el mercado online a la hora de comprar?</span></h2>
+<p>Fantástico. El mercado Online en <strong>España está por desarrollar</strong>. No hemos llegado, ni mucho menos a la <i>zona valle</i> de un consumo Online.</p>
+<h2><span style="color: #59bbc4">¿Algo más que quieras compartir?</span></h2>
+<p>IndieColors nació con la filosofía de creación e innovación de contenidos obedeciendo solo a modelos basados en la sostenibilidad, alejándonos de la productividad, que tan malos resultados está dando a medio y largo plazo en todo el planeta.</p>
+<p>Visita la web: <strong><span style="color: #993300"><a href="http://www.indiecolors.com/es/" target="_blank"><span style="color: #993300">www.indiecolors.com</span></a></span></strong></p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/caso-de-exito-indiecolors-el-arte-tambien-es-online/">Caso de éxito: Indiecolors &#8211; el arte también es online</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/es/caso-de-exito-indiecolors-el-arte-tambien-es-online/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Cómo la velocidad de carga de tu página te hace perder ventas todos los días</title>
+		<link>https://www.prestashop.com/blog/es/como-la-velocidad-de-carga-de-tu-pagina-te-hace-perder-ventas-todos-los-dias/</link>
+		<comments>https://www.prestashop.com/blog/es/como-la-velocidad-de-carga-de-tu-pagina-te-hace-perder-ventas-todos-los-dias/#comments</comments>
+		<pubDate>Tue, 26 Jan 2016 15:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Los amigos de Preston]]></dc:creator>
+				<category><![CDATA[Actualidad PrestaShop]]></category>
+		<category><![CDATA[Asociados PrestaShop]]></category>
+		<category><![CDATA[Consejos E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/es/?p=13814</guid>
+		<description><![CDATA[<p>Medir… hoy en día todo se mide. La evolución de los precios, el tiempo medio que tardas de casa al trabajo, el tiempo medio que ves la televisión, las calorías consumidas… ¡hasta los pasos dados en el día! Parece que hemos entrado en una locura compulsiva por la medición en el ámbito personal. No obstante, [...]</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/como-la-velocidad-de-carga-de-tu-pagina-te-hace-perder-ventas-todos-los-dias/">Cómo la velocidad de carga de tu página te hace perder ventas todos los días</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Medir… hoy en día todo se mide. La evolución de los precios, el tiempo medio que tardas de casa al trabajo, el tiempo medio que ves la televisión, las calorías consumidas… ¡hasta los pasos dados en el día! <span id="more-13814"></span></p>
+<p>Parece que hemos entrado en una locura compulsiva por la medición en el ámbito personal. No obstante, cabe preguntarse el porqué del ansia desmedido por medir. Y es que, si medimos las cosas, podemos tomar decisiones en base a lo que hemos medido, basadas en hechos objetivos. Mientras que <b>si no medimos, nuestras decisiones se basarán únicamente en interpretaciones u opiniones</b> guiadas por la intuición.</p>
+<p>Y si hoy en día medimos muchas cosas en nuestra vida diaria, la situación no es diferente en el entorno empresarial. Cualquier negocio que se precie, sea cual sea su sector y sea cual sea su canal, requiere del análisis pormenorizado de la información que se pueda recabar para poder mejorar y corregir errores que se puedan estar realizando en el desarrollo natural de la actividad empresarial. De hecho para mí este año vamos a tener el <a href="http://www.marketingguerrilla.es/ha-llegado-el-momento-de-escribir-sobre-tendencias-estas-3-son-las-mias/">“Regreso al Futuro” de la analítica web</a>.</p>
+<h3><span style="color: #000000">“El Regreso al Futuro” de la analítica web</span></h3>
+<p>El mundo online no es diferente. En el mundo online, y más concretamente en las tiendas online, la recopilación de información se puede realizar de forma automática, por lo que a la hora de realizar los estudios detallados en busca de mejoras constantes es mucho más fácil disponer de información sobre la que trabajar. Sin embargo, cuando nos lanzamos a crear una tienda online hay que tener muy claro qué queremos medir y el porqué.</p>
+<h2><span style="color: #e07950">¿Qué ventajas podemos encontrar en la analítica online?</span></h2>
+<p>La principal ventaja es que <b>todo se puede medir</b>. En una página web podemos conocer desde el tiempo medio de espera en una cierta página, los clics en un cierto botón,  las páginas en las que un usuario abandona nuestra tienda, los productos o servicios que prefieren nuestros clientes, las palabras que utilizan nuestros visitantes en los buscadores para llegar a nuestra web, la efectividad del diseño de nuestras páginas, su velocidad de carga, el tiempo medio que pasan los clientes en nuestra tienda.</p>
+<p>Toda esta información nos puede permitir, si se trata de forma adecuada, mejorar la navegación de nuestro sitio web, afianzar a los usuarios aumentando las visitas recurrentes, potenciar ciertos productos o servicios y, en definitiva, <b>mejorar los resultados comerciales de nuestra tienda online</b>. Al final se trata <a href="http://www.prestashop.com/blog/es/como-utilizar-los-datos-de-sus-clientes-para-mejorar-las-ventas-de-su-tienda-online/">de utilizar todos estos datos para vender más</a>.</p>
+<h2><span style="color: #e07950">¿Qué inconvenientes podemos encontrar en la analítica online?</span></h2>
+<p>En la analítica online el principal inconveniente es el <b>exceso de información</b>. Al recabarse de forma automatizada, la información conseguida es mucha y no todos tenemos estudios de estadística o de procesados de datos que nos permitan extraer todo el valor de la información. Por ello hay dos factores que cobran vital importancia:</p>
+<ol>
+<li>Conocer nuestra empresa, las métricas que queremos obtener, el porqué de esas métricas y, sobre todo, qué haremos con ellas. Como dice la frase “demasiada información no es información” y <b>un volumen demasiado elevado de datos sin utilidad terminará desviando nuestra atención de nuestros objetivos</b>, ahogándonos en un mar de datos sin utilidad alguna.</li>
+<li>Debemos disponer de herramientas que permitan <b>tratar la información y presentarla de forma sencilla</b>. Existen numerosas herramientas en el mercado que extraen, tratan y analizan grandes volúmenes de datos. Lo que es importante es <b>escoger aquella herramienta que mejor se adapte a nuestro perfil de usuario y nivel de información requerida</b>.</li>
+</ol>
+<p>Así que lección número 1: no midas cuántas veces respiras en el día, la duración de cada respiración, la duración media del respiro, los tiempos medios entre respiración y respiración … ¡si para ti es suficiente con saber que respiras!</p>
+<h2><span style="color: #e07950">11 métricas (KPIs) de tu tienda online que tienes que tener bajo control</span></h2>
+<p><b>Utiliza métricas simples y céntrate en aquellas que te permiten mejorar tu tienda online</b> y aumentar tus ventas (los llamados KPIs o Key Performance Indicators – Indicadores Claves de Rendimiento).<b></b></p>
+<p>El año pasado se publicó en este blog un post sobre <a href="https://www.prestashop.com/blog/es/los-10-kpis-que-todo-propietario-de-una-tienda-online-deberia-tener-vigilados/">“Los 10 KPIs que Todo Propietario de una Tienda Online Debería Tener Vigilados”</a>. En él se nombran los siguientes KPIs:</p>
+<ol>
+<li>Tráfico</li>
+<li>Visitas a las fichas de productos</li>
+<li>Media de páginas vistas y tiempo en el sitio</li>
+<li>Páginas de salida</li>
+<li>Fuentes de referencia</li>
+<li>Tasa de conversión</li>
+<li>Tasa de devolución</li>
+<li>Beneficio neto</li>
+<li>Valor medio del pedido</li>
+<li>Tasa de abandono de carritos</li>
+<li>Para sacarle el máximo rendimiento a un e-commerce en el año 2016 hay que añadir el número 11:</li>
+<li>Rendimiento (disponibilidad y tiempo de carga) de tu tienda online</li>
+</ol>
+<h2><span style="color: #e07950">¿En qué consiste medir el rendimiento de tu tienda online?</span></h2>
+<p>Rendimiento es una palabra un tanto abstracta pero a la cual nos hemos habituado hoy en día. Estamos acostumbrados a oír expresiones tales como “el rendimiento del equipo no está siendo el óptimo” o “sácale rendimiento a tu dinero”. El concepto de rendimiento está vinculado al de eficiencia o efectividad. Y cuando hablamos de una tienda online, el rendimiento se analiza en dos ángulos distintos a la vez que complementarios:</p>
+<ol>
+<li>Cuánto vende tu tienda (o cómo de efectiva es)</li>
+<li>Cómo funciona tu tienda (o cómo de eficiente es)</li>
+</ol>
+<p>En este post me centraré en el punto número 2, dado que el post mencionado anteriormente estaba más enfocado al punto 1. El segundo enfoque del rendimiento es posiblemente más desconocido para el pequeño comercio online (pese a ser un área de foco importantísimo en las grandes empresas y en el cual invierten ingentes sumas de dinero para mejorar).</p>
+<h3><span style="color: #000000">Un pequeño test para saber si tienes tu tienda online bajo control</span></h3>
+<p>Empecemos por un pequeño test:</p>
+<p><strong>¿Sabes qué porcentaje de disponibilidad tiene tu tienda online?</strong></p>
+<p><strong>¿Sabes si tu tienda responde lo suficientemente rápido para la mayoría de tus usuarios?</strong></p>
+<p><strong>¿Sabes si tus usuarios opinan que tu tienda es lenta o rápida?</strong></p>
+<p><strong>¿Sabes si las tiendas de tu competencia funcionan mejor o peor que la tuya?</strong></p>
+<p>Si no has sabido responder a estas preguntas, es porque, hasta hoy no te habías preocupado por monitorizar el rendimiento de tu tienda online. Bueno, puede ser, ¿y es eso tan grave? Al fin y al cabo tienes ventas, ¿no?</p>
+<h2><span style="color: #e07950">¿Por qué es tan importante medir el rendimiento de la tienda online?</span></h2>
+<p>Pues se ha demostrado que medir el rendimiento de una tienda online (lo rápido que responde, que sirve los productos, la opinión que causa en los usuarios,…) es fundamental para el éxito de una tienda online. Pongamos un ejemplo: supongamos una cafetería con “los mejores desayunos del mundo”… pero con unos camareros extremadamente lentos. Nos resultará evidente que aquellos clientes que no tengan prisa (o estén dispuestos a esperar bastante tiempo a que les sirvan) serán capaces de tomar su desayuno y puede que hasta vuelvan a la cafetería. Pero sin duda habrá muchos clientes que jamás llegarán a conocer “los mejores desayunos del mundo”, pues se irán de la cafetería hartos de esperar… y no volverán.</p>
+<h2><span style="color: #e07950">Cada segundo de carga demás te hace perder clientes e ingresos</span></h2>
+<p>Pues esto exactamente es lo que le puede pasar a tu tienda online. De acuerdo con <a href="http://5.mshcdn.com/wp-content/uploads/2011/04/site-speed.jpg" target="_blank">investigaciones recientes,</a> <b>el 57% de los visitantes abandonarán un sitio web que se demore más de 3 segundos en cargar</b>. No solo eso, sino que el 80% de estos visitantes nunca volverá a ese sitio web, e incluso la mitad de estos lo mencionarán a sus conocidos por medio de redes sociales.</p>
+<p>Está claro que cuando tenemos una tienda online, la única forma en la que podemos convencer a los visitantes de que nos compren, es mantenerlos en nuestra página. Y según lo mencionado anteriormente, un 57% de clientes potenciales desaparece inmediatamente si nuestra página se demora más de 3 segundos en cargar. Y en un negocio (el online) en el que la conversión es la principal preocupación del empresario, considerar que únicamente el 43% de los visitantes serán clientes potenciales, es empezar con muy mal pie.</p>
+<p>Y es que además las dos formas de entender el rendimiento de una tienda online están inter-relacionadas: como hemos visto en el ejemplo de la cafetería, el tiempo de carga lento va a afectar nuestras ventas. Ya no es una hipótesis, es una realidad probada.</p>
+<p>Como ejemplo, algunas <a href="https://blog.kissmetrics.com/wp-content/uploads/2011/04/loading-time-lrg.jpg" target="_blank">investigaciones </a>sobre el impacto del rendimiento en las ventas nos indican que <b>un aumento de 1 segundo adicional al tiempo óptimo de carga de una página para una persona dada afecta a las conversiones negativamente, en un 7%.</b> Para una tienda que venda 100.000 euros al día, esto significa perder 7.000 euros diarios… ¡y un increíble total de 2.5 millones de euros al año!</p>
+<h2><span style="color: #e07950">¿Qué puedes hacer para que tu e-commerce cargue más rápido?</span></h2>
+<p>Llegado a este punto podemos estar de acuerdo sobre el hecho que tener una tienda online que cargue de forma rápida es importante. Ahora la cuestión es. Si soy consciente de que tengo un problema en este aspecto. ¿Qué puedo hacer para solucionarlo?</p>
+<h3><span style="color: #000000">Eliminar problemas de carga de páginas web existentes</span></h3>
+<p>Es bastante más sencillo identificar los problemas de tu tienda online de lo que igual te imaginas. Luego ya arreglarlos evidentemente ya puede ser más complicado. Sobre todo si no dispones de las habilidades técnicas necesarias.</p>
+<p>Existen páginas que te ofrecen la posibilidad de <a href="http://www.vikinguard.com/audit/" target="_blank">realizar una auditoría online sin coste</a> para indicarte aquellas páginas que igual deberías revisar. También existen herramientas de Google que te hacen una <a href="https://developers.google.com/speed/pagespeed/?csw=1" target="_blank">prueba de velocidad</a> y además te ayudan a optimizar de forma automática.</p>
+<h3><span style="color: #000000">Poner un hosting potente y adaptado a tu plataforma</span></h3>
+<p>No siempre la velocidad de carga de una tienda se soluciona eliminando los problemas existentes. En ocasiones se necesita más potencia a nivel de servidores. Existen plaformas de <i>e-commerce</i> que requieren muchos más recursos de lo que necesita una instalación de Prestashop.</p>
+<p>En ocasiones existen requerimientos específicos que no todas las empresas ofrecen por defecto. También existen proveedores de hosting especializados para plataformas específicas con el objetivo de ofrecer un servicio más especializado resolviendo problemas que de antemano surgen con proveedores que les falta la experiencia en este campo.</p>
+<h3><span style="color: #000000">Hacer uso de herramientas y add-ons</span></h3>
+<p>Existen <a href="http://www.marketingguerrilla.es/recursos-extraordinarios-para-vender-mas-y-gastar-menos-si-tienes-una-tienda-online/">herramientas de comercio electrónico</a> extraordinarias que te ayudan tanto aumentar las ventas como reducir los costes. Dentro del mismo Prestashop existen algunos módulos de que te permiten monitorizar la disponibilidad de tu tienda online. Entre ellos destacaría <a href="http://www.vkinguard.com/">Vikinguard</a>.</p>
+<p>Entre otras cosas te proporcionan información sobre la disponibilidad, tiempo de carga y <b>satisfacción de usuario de tu tienda Prestashop</b>. Además permite recibir notificaciones si existe un problema de indisponibilidad en nuestra tienda o si el tiempo de carga de la misma es superior al umbral que definamos. Lo más importante que les diferencia de sus competidores es que el <b>uso es gratuito sin ningún tipo de limitaciones de datos o tráfico</b>. Si quieres más información pulsa aquí para acceder a la página del <a href="http://addons.prestashop.com/es/rendimiento-sitio-web/20598-vikinguard.html">add-on de Vikinguard en Prestashop</a>.</p>
+<p>Disponer de una tienda online es algo sencillo, pero hacer de esta <b>algo rentable y con futuro requiere de trabajo</b> y de medir aquellos parámetros que nos irán haciendo mejorar poco a poco nuestra tienda, lo cual mejorará la satisfacción de nuestros usuarios y nos ayudará a conseguir que nuestra tienda online sea más rentable. Desde Prestashop se ponen a vuestra disposición los módulos adecuados para conseguir este objetivo y mejorar nuestra plataforma día a día para que vuestras tiendas tengan cada vez mejor rendimiento (es decir, sean cada vez más eficientes y efectivas).</p>
+<p>Sobre el autor:</p>
+<p><a href="https://www.prestashop.com/blog/es/files/2016/01/Carlos.jpg"><img class="alignleft  wp-image-13833" style="margin-top: -2px;margin-bottom: -2px" alt="Carlos_Bravo" src="https://www.prestashop.com/blog/es/files/2016/01/Carlos.jpg" width="80" height="80" /></a>Carlos Bravo, Emprendedor en Quondos y Beguerrilla, Blogger en <a href="http://www.marketingguerrilla.es/" target="_blank">Marketingguerrilla.es</a> y <a href="http://www.zenguerrilla.es/" target="_blank">Zenguerrilla.es</a> y Autor del libro &#8220;Marketing de Guerrilla para Emprendedores valientes.</p>
+<p>Twitter: @carlosbravo</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/como-la-velocidad-de-carga-de-tu-pagina-te-hace-perder-ventas-todos-los-dias/">Cómo la velocidad de carga de tu página te hace perder ventas todos los días</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/es/como-la-velocidad-de-carga-de-tu-pagina-te-hace-perder-ventas-todos-los-dias/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Cinco pasos para lograr unas buenas ventas por San Valentín</title>
+		<link>https://www.prestashop.com/blog/es/cinco-pasos-para-lograr-unas-buenas-ventas-por-san-valentin/</link>
+		<comments>https://www.prestashop.com/blog/es/cinco-pasos-para-lograr-unas-buenas-ventas-por-san-valentin/#comments</comments>
+		<pubDate>Tue, 26 Jan 2016 08:30:34 +0000</pubDate>
+		<dc:creator><![CDATA[Julie Liu]]></dc:creator>
+				<category><![CDATA[Consejos E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/es/?p=13918</guid>
+		<description><![CDATA[<p>San Valentín está a la vuelta de la esquina. Se estima que los enamorados y pretendientes se gastarán 18.900 millones de dólares (según NRF) en regalos, cenas y otros detalles para este gran día. Con unos clientes enamorados y dispuestos a gastar, te recomendamos 5 pasos que te ayudarán a conseguir unas buenas ventas por [...]</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/cinco-pasos-para-lograr-unas-buenas-ventas-por-san-valentin/">Cinco pasos para lograr unas buenas ventas por San Valentín</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>San Valentín está a la vuelta de la esquina. Se estima que los enamorados y pretendientes se gastarán <a href="https://nrf.com/media/press-releases/cupid-shower-americans-jewelry-candy-this-valentines-day" target="_blank">18.900 millones de dólares (según NRF)</a> en regalos, cenas y otros detalles para este gran día. Con unos clientes enamorados y dispuestos a gastar, te recomendamos 5 pasos que te ayudarán a conseguir unas buenas ventas por San Valentín.<br />
+<span id="more-13918"></span></p>
+<h2 style="color:#e34894">1. Enfoque móvil</h2>
+<p>El móvil se está convirtiendo en el canal de compra prioritario en los principales mercados de comercio electrónico, como el Reino Unido y Alemania. En vista de que <a href="http://resources.mobify.com/50-mobile-commerce-stats.html" target="_blank">un 30% de los clientes afirma que abandonará una compra vía móvil</a> si la web no está optimizada, harás bien en hacer de este aspecto una prioridad durante periodos de picos de ventas, como San Valentín. Asegúrate de que tus correos electrónicos puedan visualizarse bien desde el móvil y de que la transición del correo a la web y a la pantalla de compra sea fluida. Si tu web aún no está adaptada para móviles, es lo primero que debes hacer para prepararte de cara a la temporada de ventas.</p>
+<h2 style="color:#e34894">2. Crea una oferta atractiva</h2>
+<p>Al igual que en otros periodos de ventas, el reto en San Valentín consiste en presentar una oferta diferenciada. Las tiendas que venden artículos tradicionales de San Valentín como flores, bombones, peluches y lencería lo tendrán muy difícil para llamar la atención del consumidor. Los descuentos son una opción obvia, pero basarse únicamente en el precio puede ser un acierto o un gran error. Plantéate ofrecer <a href="https://www.ice-watch.com/uk-en/ice-sili/ice-love-p-26729.htm?coul_att_detailID=1266&amp;utm_source=B2C+-+Customers+-+Contacts+-+Ice-Watch&amp;utm_campaign=97b098e6ae-2016_01_14_love_teaser_ALL_ALL&amp;utm_medium=email&amp;utm_term=0_b847164ea2-97b098e6ae-273191485&amp;mc_cid=97b098e6ae&amp;mc_eid=754b62a6a1" target="_blank">artículos de edición limitada</a> o personaliza lotes de productos que generen sensación de inminencia y guarden relación con la temática de la fecha correspondiente. </p>
+<p>También puedes combinar ventas atractivas y acciones de marketing personalizadas. San Valentín puede resultar muy estresante para muchas personas, así que ofrecer un valor añadido a modo de guías de regalos, selección de ideas o incluso un chat optimizado en tiempo real puede ser el detalle que termine de convencer a tus clientes para comprar en tu tienda. ¿Qué problemas ayudan a resolver tus productos o qué deseos satisfacen? Reflexiona sobre ello y, a continuación, céntrate en hacer llegar este mensaje a tus clientes a través de tu blog, newsletter y campañas de correo electrónico. </p>
+<h2 style="color:#e34894">3. Promociona</h2>
+<p>Una vez tengas la oferta perfecta, asegúrate de que los clientes lo sepan. Aquí tienes algunas sugerencias:</p>
+<p>- <a href="https://www.prestashop.com/blog/es/pop-ups-en-tu-sitio-web-ejemplos-y-metodo-para-2015/"><strong>Ventanas emergentes o incrustadas</strong></a><br />
+Las ventanas emergentes o incrustadas promocionan tus ventas entre personas que ya están navegando por tu tienda. Puesto que abarcan toda tu web, te garantizan captar la atención del comprador, pero también pueden resultar molestas para algunas personas. Asegúrate de limitar el número de veces que un comprador puede visualizarlas para que no causen mala impresión.</p>
+<p>- <a href="https://www.prestashop.com/blog/en/4-awesome-ideas-valentines-day-gift-guides/"><strong>Guías de regalos</strong></a><br />
+Las guías de regalos son una forma muy versátil de promocionar tus productos. Son especialmente útiles para los compradores que no tienen ni idea de qué regalar o que han esperado hasta el último momento. Una guía de regalos bien elaborada está dirigida a los clientes con diferentes necesidades acerca del regalo perfecto. Si tienes un blog, utilízalo para que tus lectores vean lo que vendes. Plantéate crear una entrada con consejos que aporte valor añadido a los clientes además de presentar tus productos.</p>
+<p>- <a href="https://www.prestashop.com/blog/en/10-key-steps-successful-email-campaign/"><strong>Marketing por correo electrónico</strong></a><br />
+El correo electrónico sigue siendo el método más eficaz para difundir tu mensaje: llegas directamente a la bandeja de entrada de tu cliente y tienes la oportunidad de llamar su atención e impulsar el tráfico a tu web. Asegúrate de que el asunto de tu correo sea atractivo para atraerle y que la transición de la bandeja de entrada a la página de aterrizaje sea ágil. En función de tu promoción, es posible que también quieras plantearte realizar una campaña por correo electrónico estratificada y dividida en ofertas basadas en el precio y en las <a href="http://www.splio4.com/mr/6fU0is7q4/3390/1877180697.html" target="_blank">propuestas únicas de valor añadido</a> que probablemente te diferencien de la competencia. Piensa en cómo podrías deleitar a tu cliente este año y demás de ahorrarle dinero.</p>
+<p>- <a href="https://www.prestashop.com/blog/en/3-steps-launching-sem-campaign-google-adwords/"><strong>Google Ads</strong></a><br />
+Ésta es, posiblemente, la herramienta promocional más cara de tu kit de marketing. Con independencia de que gestiones tu campaña directamente con Google Adwords o de que recurras a un proveedor externo, tendrás que pagar por utilizar esta opción. A medida que se acercan las ventas vinculadas a las fechas concretas, las pujas por palabras clave como “San Valentín” y “Regalos” suelen subir. Sin embargo, la visibilidad que ganarás presenta un gran potencial de ingresos para tu web. Deberías valorar tus recursos y asignar tu presupuesto en consecuencia: Google Ads puede ser un excelente impulso, pero si no tienes una buena oferta o no le das a los clientes razones para que confíen en ti, el incremento del tráfico no te ayudará a alcanzar tus objetivos de ventas. </p>
+<p>- <strong>Opciones de banners en la web </strong><br />
+Al igual que las ventanas emergentes e incrustadas, los banners sólo promocionan tu venta a las personas que ya están comprando en tu web. La ventaja es que un banner no es tan intrusivo y, a diferencia de las ventanas emergentes e incrustadas, los clientes no pueden cerrarlos y olvidarse de ellos. (Consulta aquí cómo modificarlos con la <a href="https://www.prestashop.com/blog/es/modulos-prestashop-personaliza-el-aspecto-de-tu-pagina-de-inicio/">plantilla por defecto</a>). Presentan un espacio perfecto para utilizar imágenes de temáticas específicas y realzar las ventajas como el envío gratuito y la opción de envolver para regalo. Plantéate también incorporar un recordatorio sobre la fecha límite de envío. Todo lo que hagas para simplificar la experiencia de compra te acercará un poco más a la conversión.</p>
+<p>- <strong>Redes sociales</strong><br />
+Promover tu venta en redes sociales es un método excelente para llegar a clientes interesados pero que no han comprado en tu tienda. Es también una oportunidad perfecta para que los compradores compartan tu campaña promocional con sus amigos en redes sociales. Quizás quieras plantearte lanzar una campaña promocional o un concurso sólo en redes sociales para potenciar el interés.</p>
+<p>¿Has planificado la <a href="https://www.prestashop.com/blog/en/10-valentines-day-e-commerce-marketing-ideas/">promoción de tus ventas por San Valentín</a>? Para obtener más ayuda y asesoramiento, ¡consulta este artículo <a href="https://www.prestashop.com/blog/en/10-valentines-day-e-commerce-marketing-ideas/">sobre marketing para San Valentín</a>! </p>
+<h2 style="color:#e34894">4. Prueba</h2>
+<p>Dado que el tiempo con el que cuentas para conseguir clientes es limitado, es importante que pruebes tu web y las ofertas que has desarrollado. Asegúrate de que los cupones y promociones que estás difundiendo de verdad funcionan: parece obvio, pero cuando vas a mil por hora para tenerlo todo listo y a tiempo, siempre existe la posibilidad de que se cuele algún error técnico. No esperes a darte cuenta el día de la venta. </p>
+<p>Además de probar tus promociones, aquí tienes otras tareas que deberías realizar antes de lanzar la venta: </p>
+<ul style="padding-left: 30px">
+<li>Prueba los enlaces de toda tu publicidad</li>
+<li>Prueba a realizar un pedido (esto es especialmente importante si tus clientes pueden personalizar los productos)</li>
+<li>Completa el pedido con todas las opciones de pago que ofreces. No hay nada peor que un cliente que abandone una compra porque no ha podido pagar.</li>
+</ul>
+<p>San Valentín es una fecha caracterizada por los pedidos de última hora. Por tanto, es más importante que nunca que cursar el pedido sea fácil y rápido. </p>
+<h2 style="color:#e34894">5. Analiza</h2>
+<p>Y por último, aunque desde luego no menos importante: bloquea tiempo para analizar las ventas después de la fecha en cuestión. Utiliza este tiempo para revisar tus previsiones de ventas y ver si las has cumplido o no has alcanzado tus objetivos. Plantéate preguntas como:</p>
+<ul style="padding-left: 30px">
+<li>¿Qué ha funcionado bien este año? </li>
+<li>¿Qué se puede mejorar? </li>
+<li>¿Qué tendencias nos gustaría probar para la próxima fecha señalada? </li>
+<li>¿Qué tendencias sorprendieron y garantizan otro vistazo? </li>
+<li>¿Qué ideas, en su caso, deberíamos dejar de probar? </li>
+</ul>
+<p>Las conclusiones que extraigas del análisis serán importantes para realizar previsiones de cara a las próximas ventas en fechas especiales. También es importante analizar los productos que no se han vendido e idear otra promoción para liquidar los productos de San Valentín de este año. </p>
+<hr width="20%" align="left" />
+<p>¿Estás listo para este San Valentín? ¡Comparte alguno de tus trucos en el apartado de comentarios o cuéntanos si estos pasos te han ayudado a lograr tus objetivos de ventas este año! </p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/cinco-pasos-para-lograr-unas-buenas-ventas-por-san-valentin/">Cinco pasos para lograr unas buenas ventas por San Valentín</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/es/cinco-pasos-para-lograr-unas-buenas-ventas-por-san-valentin/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Historias de éxito: ¿Es una locura vender productos perecederos online? ¡No tanto, fíjate en Half Nuts!</title>
+		<link>https://www.prestashop.com/blog/es/historias-de-exito-es-una-locura-vender-productos-perecederos-online-tanto-fijate-en-half-nuts/</link>
+		<comments>https://www.prestashop.com/blog/es/historias-de-exito-es-una-locura-vender-productos-perecederos-online-tanto-fijate-en-half-nuts/#comments</comments>
+		<pubDate>Mon, 25 Jan 2016 08:30:55 +0000</pubDate>
+		<dc:creator><![CDATA[Julie Liu]]></dc:creator>
+				<category><![CDATA[Caso de éxito]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/es/?p=13914</guid>
+		<description><![CDATA[<p>El fluido proceso de la compra online (hacer clic en un botón y recibir la mercancía) implica que muchos de nosotros damos por sentada la complicada logística que permite que nuestras compras online lleguen a nuestro domicilio sin retrasos. En la historia de éxito de hoy, Mary Ziegler —copropietaria de HalfNuts.net, nos cuenta cómo su [...]</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/historias-de-exito-es-una-locura-vender-productos-perecederos-online-tanto-fijate-en-half-nuts/">Historias de éxito: ¿Es una locura vender productos perecederos online? ¡No tanto, fíjate en Half Nuts!</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>El fluido proceso de la compra online (hacer clic en un botón y recibir la mercancía) implica que muchos de nosotros damos por sentada la complicada logística que permite que nuestras compras online lleguen a nuestro domicilio sin retrasos. En la historia de éxito de hoy, Mary Ziegler —copropietaria de <a href="https://www.halfnuts.net/" target="_blank">HalfNuts.net</a>, nos cuenta cómo su propia empresa se asegura de que cada paquete llegue justo a tiempo.<br />
+<span id="more-13914"></span><br />
+<strong>JL: Cuéntanos algo más sobre Half Nuts y los productos que vendes.</strong></p>
+<p><strong>MZ:</strong> Como sugiere nuestro nombre, vendemos una amplia gama de frutos secos frescos, tostados, salados e incluso aderezados con deliciosas coberturas, como chocolate o caramelo de mantequilla. La otra mitad de Half Nuts cuenta con un rico surtido de caramelos, chocolates, fruta deshidratada, popurrís para aperitivos y nuestro producto estrella, la exclusiva Barra Gigante Ziegler. </p>
+<p><strong>JL: ¿Qué es la Barra Gigante Ziegler?</strong></p>
+<p><strong>MZ:</strong> La Barra Gigante Ziegler es un caramelo creado por The Ziegler Candy Company. El nombre no es casualidad&#8230; la familia de mi marido estuvo al frente de The Ziegler Candy Company durante cuatro generaciones antes de que la empresa echara el cierre en los años 70. Al crecer en una fábrica de caramelos, mi marido quería que parte del negocio de Half Nuts se centrara en este producto. Actualmente, seguimos ofreciendo la Barra Gigante original con los mismos moldes y la misma receta, como homenaje a la historia familiar de The Ziegler Candy.</p>
+<p><strong>JL: ¿Cómo nació vuestra tienda online?</strong></p>
+<p><strong>MZ:</strong> Comenzamos con nuestra tienda física en 1990. Para comodidad de nuestros clientes locales, lanzamos una web a la que subimos todos nuestros productos para que pudieran comprobar lo que teníamos y comprar sin tener que desplazarse a nuestro comercio. Desde el lanzamiento de nuestra primera web en 2002, la hemos rediseñado y lanzado en varias ocasiones antes de llegar a la que tenemos hoy en día. Hemos pasado de tener únicamente nuestro catálogo online para la comunidad local a ser una tienda a escala nacional de frutos secos, caramelos y muchas otras delicias.</p>
+<p>Cuando contratamos a nuestro desarrollador web, Arafat, nos quedamos impresionados con su cartera de sitios y el diseño global de la tienda. Y por eso hemos confiado en él desde PrestaShop 1.5.6 y recientemente, nos hemos pasado a la versión 1.6. Arafat puede estar orgulloso del trabajo que hace y ha creado para nosotros una estupenda web PrestaShop personalizada.</p>
+<p><strong>JL: ¿Qué retos te has encontrado al vender productos perecederos?</strong></p>
+<p><strong>MZ:</strong> El principal desafío que tenemos a la hora de enviar los productos es que son perecederos y queremos que lleguen en las mejores condiciones posibles. Una de las ventajas de vivir en Milwaukee es que tenemos un clima excelente y fresco para realizar envíos la mayor parte del año. Sin embargo, a medida que nuestras ventas online crecían y comenzamos a realizar muchos más envíos al sur, y también a la costa Este y Oeste, tuvimos que contemplar el clima cálido que suelen tener estas regiones. Algunas tienen un clima que permite los envíos durante todo el año, lo que nos supone un problema. Nuestros distribuidores suelen utilizar barras de hielo para enviarnos los productos y nosotros les regalamos, esas barras de hielo, a los clientes. </p>
+<p>Aunque esto ayuda a mantener los productos frescos, el peso de las barras incrementa el coste de envío para nuestros clientes. Por ello, implantamos los módulos de envío Connect to <a href="http://addons.prestashop.com/es/518-envio-y-logistica" target="_blank">UPS</a> y <a href="http://addons.prestashop.com/es/gastos-de-transporte/20047-usps-rate-calculator-pro.html" target="_blank">USPS Shipping</a> para que pudieran escoger la opción de envío que prefirieran. Pueden elegir si quieren un servicio que les comunique la fecha exacta en la que recibirán su paquete, como hace UPS, o si prefieren una opción más económica, como la que ofrece el Servicio de Correos de Estados Unidos.</p>
+<p>Otra cosa que ofrecemos son refrigeradores de espuma de poliestireno. Éstos ofrecen un aislamiento excelente para los productos que enviamos, que pueden derretirse, sin que el bulto pese demasiado. Aunque reduce el peso, sigue aumentando los costes debido al tamaño del paquete. Por ello utilizamos dos módulos de envío que ofrecen dos opciones diferentes. Que nuestros clientes puedan seleccionar el método de envío nos ha ayudado a mantener nuestros costes controlados y, a su vez, contribuye a su satisfacción. </p>
+<p><strong>JL: Con una fecha señalada como San Valentín a la vuelta de la esquina, ¿cómo os preparáis?</strong></p>
+<p><strong>MZ:</strong> San Valentín, Semana Santa, Halloween y Navidad&#8230; las fechas más señaladas del año también son días de mucho trabajo para nosotros. Comenzamos con las promociones de estos eventos con unos 15 días de antelación para las fechas menos relevantes y con un mes para las más importantes, como Navidad o Semana Santa. Incorporaremos funcionalidades como <a href="http://addons.prestashop.com/es/pop-in-pop-up/19431-pop-promo.html" target="_blank">una notificación emergente</a> y ofrecemos descuentos especiales para los pedidos online. A nuestra base de clientes les enviaremos un recordatorio sobre nuestra tienda con una campaña de <a href="http://addons.prestashop.com/es/500-newsletter-sms" target="_blank">marketing por correo electrónico</a> y también les ofreceremos el mismo descuento especial. Para prepararnos en el terreno logístico, de cara a las fechas señaladas y otras épocas de picos de trabajo, siempre contratamos a más personal para responder a los pedidos puntualmente, normalmente en un plazo de 24 horas.</p>
+<hr width="20%" align="left">
+<p>¿Crees que tienes lo que hay que tener para empezar a vender productos perecederos online? Empieza hoy con nuestro <a href="http://www.prestashop.com/">software de eCommerce</a>. ¿Necesitas inspiración? ¡Echa un vistazo a lo que cuentan otros vendedores de PrestaShop en las anteriores <a href="https://www.prestashop.com/blog/es/category/sucess-story/">historias de éxito</a>!</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/historias-de-exito-es-una-locura-vender-productos-perecederos-online-tanto-fijate-en-half-nuts/">Historias de éxito: ¿Es una locura vender productos perecederos online? ¡No tanto, fíjate en Half Nuts!</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/es/historias-de-exito-es-una-locura-vender-productos-perecederos-online-tanto-fijate-en-half-nuts/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>¿Debería ofrecer tarjetas regalo tu tienda online?</title>
+		<link>https://www.prestashop.com/blog/es/deberia-ofrecer-tarjetas-regalo-tu-tienda-online/</link>
+		<comments>https://www.prestashop.com/blog/es/deberia-ofrecer-tarjetas-regalo-tu-tienda-online/#comments</comments>
+		<pubDate>Fri, 22 Jan 2016 08:30:18 +0000</pubDate>
+		<dc:creator><![CDATA[Julie Liu]]></dc:creator>
+				<category><![CDATA[Consejos E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/es/?p=13908</guid>
+		<description><![CDATA[<p>¿Sabías que, en 2014, el gasto en tarjetas regalo creció hasta los 100.000 millones de dólares? Desde su lanzamiento, la popularidad de las tarjetas regalo no ha dejado de crecer. Hoy repasaremos sus conceptos básicos para ayudarte a determinar si son un buen complemento para tu tienda online. ¿Qué son las tarjetas regalo? Existen dos [...]</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/deberia-ofrecer-tarjetas-regalo-tu-tienda-online/">¿Debería ofrecer tarjetas regalo tu tienda online?</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>¿Sabías que, en <a href="http://www.pymnts.com/news/2015/inside-the-motives-of-a-gift-card-buyer-why-the-industry-continues-to-boom/" target="_blank">2014, el gasto en tarjetas regalo creció hasta los 100.000 millones de dólares</a>? Desde su lanzamiento, la popularidad de las tarjetas regalo no ha dejado de crecer. Hoy repasaremos sus conceptos básicos para ayudarte a determinar si son un buen complemento para tu tienda online.<br />
+<span id="more-13908"></span></p>
+<h2 style="color:#251b5a">¿Qué son las tarjetas regalo?</h2>
+<p>Existen dos grandes tipos de tarjetas regalo: las abiertas (o bancarias), aceptadas por las principales soluciones de pago como Visa, MasterCard y American Express, y las cerradas (o minoristas), aceptadas únicamente en determinados comercios. En este artículo, nos centraremos en las tarjetas regalo cerradas que puede emitir tu propia tienda. </p>
+<h2 style="color:#251b5a">Pros de las tarjetas regalo para las tiendas online</h2>
+<p>Las tarjetas regalo son una opción estupenda no sólo para los clientes, sino también para los vendedores que las comercializan. Aquí tienes algunas razones de peso para ofrecer tarjetas regalo en tu tienda online: </p>
+<ol>
+<li>Es una opción fácil para el cliente: éste no necesita conocer la dirección o gustos del destinatario.</li>
+<li>Los clientes finales puedes escoger los artículos que realmente quieren, lo que reduce el número de devoluciones en tu web.</li>
+<li>Tu flujo de caja aumentará: recibirás el pago incluso antes de tener que enviar el producto.</li>
+<li>Son una opción fácil, pero más personal que regalar dinero.</li>
+<li>Con las tarjetas regalo, los clientes nuevos que, de otro modo quizás dudarían si comprar en tu tienda, tienen una razón para conocerte.</li>
+<li>Por lo general, los clientes pagan el precio total y <a href="https://www.cebglobal.com/exbd/financial-services/tower-group/gift-cards/index.page?" target="_blank">hacen un gasto superior al valor de la tarjeta regalo</a>.</li>
+</ol>
+<h2 style="color:#251b5a">Contras de las tarjetas regalo para las tiendas online</h2>
+<p>Por supuesto, todo tiene sus más y sus menos. Aquí te presentamos algunas de las desventajas de ofrecer tarjetas regalo en tu tienda:</p>
+<ol>
+<li><strong>Más contabilidad.</strong> Tendrás que contabilizar la compra inicial de la tarjeta regalo, pero también el pedido del producto correspondiente, que es cuando en realidad se reembolsa la tarjeta regalo.</li>
+<li><strong>Sin devoluciones, sólo cambios.</strong> Con la mayoría de los procesadores de tarjetas de crédito, los fondos sólo pueden devolverse a la tarjeta original del comprador. Esto hace que sea imposible emitir devoluciones al destinatario del regalo.</li>
+<li><strong>Posibles fraudes.</strong> En algunos casos, un estafador podría comprar la tarjeta regalo y utilizar todo su valor antes de que tú, el vendedor, te des cuenta de que el pedido original era fraudulento.</li>
+</ol>
+<h2 style="color:#251b5a">Cómo configurar tarjetas regalo en PrestaShop</h2>
+<ol>
+<li><strong>Instala un <a href="http://addons.prestashop.com/es/descuentos-ofertas-rebaja-prestashop-modulos/17452-gift-card.html" target="_blank">módulo de tarjeta regalo</a>.</strong> Aunque es imposible crear de forma manual cada tarjeta regalo, puesto que los clientes las compran con nuestras funciones de vales integradas, hemos creado un módulo que te ayudará a gestionarlas. Una vez instalado el módulo de tarjeta regalo, ya puedes configurarlo. </li>
+<li><strong>Decide las cantidades / denominaciones de las tarjetas regalo.</strong> Probablemente querrás ofrecer tarjetas regalo con denominaciones que encajen con tu selección de productos. Si el valor medio de tu pedido es 100 dólares, asegúrate de que los importes de tus tarjetas regalo reflejen esta realidad. Ofrecer tarjetas regalo de 10 dólares no tendría mucho sentido en este caso.</li>
+<li><strong>Fija la fecha de caducidad.</strong> Ten en cuenta la legislación que regula este aspecto en tu país. Por ejemplo, si resides en <a href="http://www.ncsl.org/research/financial-services-and-commerce/gift-cards-and-certificates-statutes-and-legis.aspx" target="_blank">in the US, gift cards cannot expire within 5 years</a> a la compra. Y éste es sólo el punto de partida. Podrían existir otras leyes estatales que limiten la fecha de caducidad.</li>
+<li><strong>Facilita todas las preguntas frecuentes sobre el producto en su descripción.</strong> No basta únicamente con crear la tarjeta regalo. Asegúrate de incorporar un enlace en tu pie de página e intenta buscar &#8220;tarjeta regalo&#8221; en tu buscador para verificar que resulte fácil de encontrar. A continuación, prueba a promocionar la tarjeta regalo en un carrusel de la web o en tu categoría de productos para regalo.</li>
+<li><strong>Lanza y promociona tu tarjeta regalo.</strong> It’s not enough to just create your gift card. Be sure to add a link in your footer and try searching “gift card” in your search bar to verify that it’s easy to find. Next, try promoting the gift card on a homepage slider or in your gift product category. </li>
+</ol>
+<p>Te toca. Cuéntanos por qué o por qué no ofreces tarjetas regalo en tu tienda online. Si has tenido experiencias positivas o negativas, compártelas dejándonos un comentario abajo. ¿Aún no tienes tienda online? Empieza hoy mismo con PrestaShop. </p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/deberia-ofrecer-tarjetas-regalo-tu-tienda-online/">¿Debería ofrecer tarjetas regalo tu tienda online?</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/es/deberia-ofrecer-tarjetas-regalo-tu-tienda-online/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Caso de éxito: Due-Home, decoración en tu vida</title>
+		<link>https://www.prestashop.com/blog/es/caso-de-exito-due-home-decoracion-en-tu-vida/</link>
+		<comments>https://www.prestashop.com/blog/es/caso-de-exito-due-home-decoracion-en-tu-vida/#comments</comments>
+		<pubDate>Wed, 20 Jan 2016 15:00:24 +0000</pubDate>
+		<dc:creator><![CDATA[Jhon Suarez Pardo]]></dc:creator>
+				<category><![CDATA[Caso de éxito]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/es/?p=13654</guid>
+		<description><![CDATA[<p>Hoy estamos con Xavi Martínez, CEO de Due-Home, empresa dedicada a la venta de muebles y objetos de decoración para la casa y la oficina. Xavi, cuéntanos un poco sobre Due-Home. Due-Home nace en el 2013 como una forma de generar más ingresos al negocio familiar. Seguimos los pasos de nuestro padres y abuelos que [...]</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/caso-de-exito-due-home-decoracion-en-tu-vida/">Caso de éxito: Due-Home, decoración en tu vida</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Hoy estamos con Xavi Martínez, CEO de Due-Home, empresa dedicada a la venta de muebles y objetos de decoración para la casa y la oficina.<span id="more-13654"></span></p>
+<h2><span style="font-size: 30px;line-height: 1.3;color: #59bbc4">Xavi, cuéntanos un poco sobre Due-Home.</span></h2>
+<p>Due-Home nace en el 2013 como una forma de <span style="color: #000000">generar</span> más ingresos al negocio familiar. Seguimos los pasos de nuestro padres y abuelos que siempre se han dedicado a la venta de mobiliario y decoración, pero en este caso lanzándonos al mundo online.</p>
+<p>Con un primer año complicado de compaginar tienda física con tienda online se decide <strong>separar el negocio offline del online</strong> y empieza la aventura…en 2015 contamos con un equipo de 8 personas y creciendo cada año.</p>
+<h2><span style="color: #59bbc4">¿Cómo y por qué elegiste PrestaShop?</span></h2>
+<p>Necesitábamos una plataforma que no supusiera unos costes de inicio elevados, después de barajar todas las opciones del mercado decidimos que PrestaShop era la plataforma que mejor se podía adaptar a nosotros. <strong>Empezamos con un diseño estándar y poco a poco se ha ido personalizando la tienda y ajustándose a nuestras especificaciones.</strong></p>
+<p>PrestaShop ha conseguido en poco tiempo colocarse al nivel de otras plataformas que estaban más avanzadas.</p>
+<h2><span style="color: #59bbc4">¿Cómo una tienda online de muebles gestiona la logística? ¿A los consumidores no les da miedo comprar este tipo de productos?</span></h2>
+<p>¡Con sufrimiento! <img src="https://www.prestashop.com/blog/es/wp-includes/images/smilies/icon_biggrin.gif" alt=":D" class="wp-smiley" /> </p>
+<p>Estamos en una gama de productos que su transporte es muy complicado, la media de peso de <strong>nuestros productos ronda los 50kg</strong> y con unas dimensiones grandes, esto hace que el transporte de estos productos sea mucho más delicado.</p>
+<p>Nos ha costado muchos disgustos hasta encontrar la agencia de transportes que ha entendido y se ha sabido adaptar a nuestras demandas.</p>
+<p><strong>Para el almacenamiento y manipulación de todos los productos que tenemos en stock disponemos de centros logísticos en los que se gestiona todo el proceso.</strong></p>
+<h2><span style="color: #59bbc4">¿Qué consejos darías a una tienda que se lanza ahora? ¿Recomendarías que negocios como el tuyo ingresaran en el mundo online?</span></h2>
+<p>La venta online cada día es más agresiva, esto hace que alguien que quiera entrar de nuevo tenga que pensarse dos veces si merece la pena lanzarse y jugarse la inversión necesaria.</p>
+<p>Yo recomendaría encontrar un nicho de mercado en el que alguien pueda ser competitivo y ver que tiene demanda.</p>
+<p>Mucha gente cree que internet es colgar una foto, sentarse en el sofá e hincharse a vender… <strong>Hace falta una dedicación extrema si quieres que el negocio funcione.</strong></p>
+<h2><span style="color: #59bbc4">¿Como ves la evolución del comportamiento del consumidor español en el mercado online a la hora de comprar?</span></h2>
+<p>En pocos años hemos visto una evolución muy buena del consumidor español, menos miedos a los pagos online, más confianza en la compra de productos de elevado precio, <strong>se está perdiendo el miedo a la compra en internet.</strong></p>
+<p>Aun nos queda para poder igual a mercados mucho más avanzados como son el francés, alemán…pero en pocos años podremos estar en los mismos niveles de compra/venta online.</p>
+<h2><span style="color: #59bbc4">¿Algo más que quieras compartir?</span></h2>
+<p>La importancia del trato con el cliente, hay que tener en cuenta que si queremos tener un futuro en la venta Online <strong>hay que tratar a todos los clientes como si fuera el único</strong>, esto puede llegar a ser complicado cuando una tienda tiene mucho volumen, pero hay que intentar<strong> conseguir que cada venta sea una experiencia de compra perfecta para el usuario</strong>.</p>
+<p>Visita la web: <strong><span style="color: #993300"><a href="http://due-home.com/" target="_blank"><span style="color: #993300">www.due-home.com</span></a></span></strong></p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/caso-de-exito-due-home-decoracion-en-tu-vida/">Caso de éxito: Due-Home, decoración en tu vida</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/es/caso-de-exito-due-home-decoracion-en-tu-vida/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Entrevista con Eugen Kuschnir, embajador de PrestaShop</title>
+		<link>https://www.prestashop.com/blog/es/entrevista-con-eugen-kuschnir-embajador-de-prestashop/</link>
+		<comments>https://www.prestashop.com/blog/es/entrevista-con-eugen-kuschnir-embajador-de-prestashop/#comments</comments>
+		<pubDate>Tue, 19 Jan 2016 08:30:15 +0000</pubDate>
+		<dc:creator><![CDATA[Sabrina Maréchal]]></dc:creator>
+				<category><![CDATA[Embajadores PrestaShop]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/es/?p=13788</guid>
+		<description><![CDATA[<p>Hace poco más de dos semanas, la comunidad PrestaShop celebró en Düsseldorf su segundo encuentro, íntegramente organizado por el embajador de PrestaShop Eugen Kuschnir. He tenido la oportunidad de entrevistar a Eugen acerca de su cometido de embajador y la organización de los encuentros locales. Eugen, cuéntanos, en primer lugar, ¿cómo conociste PrestaShop? ¿Cuál fue [...]</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/entrevista-con-eugen-kuschnir-embajador-de-prestashop/">Entrevista con Eugen Kuschnir, embajador de PrestaShop</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Hace poco más de dos semanas, la comunidad PrestaShop celebró en Düsseldorf su segundo encuentro, íntegramente organizado por el embajador de PrestaShop Eugen Kuschnir. He tenido la oportunidad de entrevistar a Eugen acerca de su cometido de embajador y la organización de los encuentros locales.<br />
+<span id="more-13788"></span></p>
+<p><img src="https://www.prestashop.com/blog/es/files/2016/01/image9-1024x768.jpg" alt="image9" width="700" height="525" class="aligncenter size-large wp-image-21115" /></p>
+<p><strong>Eugen, cuéntanos, en primer lugar, ¿cómo conociste PrestaShop? ¿Cuál fue tu primera experiencia con el sistema de tiendas?</strong></p>
+<p>Como desarrollador de software, también me hago cargo de algunos proyectos de comercio electrónico. Hace casi un año, en diciembre de 2014, me topé por casualidad con PrestaShop y me sedujo al instante. La facilidad de uso del sistema me causó una impresión positiva a primera vista y por sí sola supuso una razón suficiente para llevar a cabo pruebas más avanzadas. Entonces analicé varias situaciones de trabajo y todas ellas dieron resultados muy positivos. Obviamente, la cercanía con la comunidad también es un plus. Si surge un problema, siempre hay desarrolladores dispuestos a ayudarnos. Por ejemplo, experimenté algunas dificultades con una conexión de pago, pero los desarrolladores de Gurkcity lograron hallar una solución.</p>
+<p><strong>¿Por qué decidiste convertirte en embajador de PrestaShop? ¿Qué motivo te impulsó?</strong></p>
+<p>El 11 de junio fui al PrestaShop Day de París, donde se <a href="http://ambassadors.prestashop.com/" target="_blank">presentó el programa de embajadores</a> por primera vez. Considero que una de las ventajas fundamentales del sistema estriba en el espíritu de código abierto y siempre puedo recurrir a los estrechos lazos que unen a la comunidad. El programa de embajadores brindaba una oportunidad perfecta para seguir fomentando mi trato con otros vendedores y agencias de PrestaShop, así como para difundir mi conocimiento y mi experiencia. En pocas palabras, me presenté candidato y luego me entrevisté con Hagen Meischner, director nacional de territorios germanohablantes, y Sabrina Marechal, responsable del programa de embajadores. En septiembre asumí el cargo de embajador activo, función que, cabe recordar, se desempeña con carácter totalmente gratuito y voluntario.</p>
+<p><strong>El segundo encuentro se celebró el 2 de diciembre. ¿Con qué frecuencia y dónde se celebran los encuentros?</strong></p>
+<p>Mi objetivo como organizador es congregar a la comunidad cada mes: cada dos meses se celebrará un encuentro ordinario y en el mes de entremedias se celebrará una reunión conjunta de programación. </p>
+<p><strong>¿Y participarás en esa reunión de forma activa?</strong></p>
+<p>Sí, yo también participaré. Hasta ahora, los encuentros giraban en torno a un diálogo de carácter general, así como temas específicos acerca del comercio electrónico y PrestaShop. En un futuro, queremos ir más lejos en la programación con los miembros de la comunidad interesados en la técnica. Se tratará de problemas concretos, en torno a los cuales debatiremos pistas y soluciones o desarrollaremos pequeños módulos. Todo ello podría calificarse de «minimaratón» de programación. También abordaremos los aspectos técnicos de la operativa diaria de las tiendas. </p>
+<p><strong>¿Qué deparan los encuentros a los participantes?</strong></p>
+<p>La idea fundamental de los encuentros consiste reunir en la vida real a las personas que son miembros de una comunidad virtual. Y para ello el formato de encuentro está sobradamente probado. Son bienvenidas todas las personas interesadas en PrestaShop, el comercio electrónico o en esta cuestión por cualquier otro motivo: el encuentro es gratuito y está abierto a todo el mundo. En mi calidad de embajador, me encargo de poner fecha, buscar sitio, etc. Todo se organiza a través de un grupo en Meetup.com y Eventbrite. Obviamente, PrestaShop también nos ayuda con su blog, boletín de noticias, redes sociales, etc. </p>
+<p>Los primeros encuentros mostraron que, el vernos cara a cara, posibilita tejer relaciones totalmente nuevas entre vendedores, desarrolladores y agencias, cosa que no sucedía en el foro de PrestaShop ni por otras vías de comunicación. </p>
+<p>Los temas de cada encuentro los escogen los propios participantes, ya sea directamente durante el propio encuentro o cuando detectan un asunto importante para tratar en el próximo encuentro y que necesite preparación. </p>
+<p><img src="https://www.prestashop.com/blog/es/files/2016/01/image11-1024x768.jpg" alt="image11" width="700" height="525" class="aligncenter size-large wp-image-21116" /></p>
+<p><strong>¿Cuáles fueron los temas del último encuentro?</strong></p>
+<p>El tema principal de la última reunión fue la nueva versión de PrestaShop. En un podcast de vídeo, Sébastien Levaillant, director de gestión de producto, ofreció una visión de conjunto de la próxima versión y presentó algunas de sus opciones. Los vendedores y desarrolladores expresaron expectativas y deseos muy distintos para la versión 1.7, por lo que el debate al respecto dista de haber concluido.</p>
+<p>Además, hubo mucho diálogo acerca del método de prueba de las Trusted Shops y tiendas Händlerbund, así como los aspectos que han de comprobar los vendedores a este respecto. La agencia Patworx también presentó su nuevo módulo Amazon Payments en ese encuentro. Con Amazon Payments, los vendedores disponen de una nueva forma de pago que ofrece a los clientes una vivencia de compra más cómoda. </p>
+<p>Obviamente, los asistentes también trataron otras cuestiones prácticas propias de los vendedores, tales como consejos para la optimización de los motores de búsqueda y la importación de datos CSV. </p>
+<p><strong>Y mi última pregunta, Eugen: ¿qué deseas para los próximos encuentros?</strong></p>
+<p>Personalmente, me gustaría que acudieran más participantes. En cada reunión había 15 personas, con una buena mezcla de vendedores y desarrolladores, pero nos encantaría que al próximo encuentro acudieran también diseñadores web. De esa forma los encuentros congregarían a todas las profesiones que intervienen en la creación de una tienda online. </p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/entrevista-con-eugen-kuschnir-embajador-de-prestashop/">Entrevista con Eugen Kuschnir, embajador de PrestaShop</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/es/entrevista-con-eugen-kuschnir-embajador-de-prestashop/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Publicando tu tienda y dándole difusión</title>
+		<link>https://www.prestashop.com/blog/es/publicando-tu-tienda-y-dandole-difusion/</link>
+		<comments>https://www.prestashop.com/blog/es/publicando-tu-tienda-y-dandole-difusion/#comments</comments>
+		<pubDate>Fri, 15 Jan 2016 15:10:19 +0000</pubDate>
+		<dc:creator><![CDATA[Los amigos de Preston]]></dc:creator>
+				<category><![CDATA[Actualidad PrestaShop]]></category>
+		<category><![CDATA[Asociados PrestaShop]]></category>
+		<category><![CDATA[Difundir]]></category>
+		<category><![CDATA[Publicar]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/es/?p=13765</guid>
+		<description><![CDATA[<p>Capítulo final de la serie de 4 posts donde explicaba cómo comenzar a plantear una tienda online, buscar proveedores y desarrollar tu tienda en Prestashop. Llegados a la fase donde ya lo tenemos todo online bien alojado en Prestashop Cloud o en nuestro propio servidor (te recomiendo loading.es, partner oficial de hosting de Prestashop), ¿qué [...]</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/publicando-tu-tienda-y-dandole-difusion/">Publicando tu tienda y dándole difusión</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Capítulo final de la serie de 4 posts donde explicaba cómo comenzar a <a href="https://www.prestashop.com/blog/es/empezando-plantear-el-proyecto-el-estudio-de-mercado/">plantear una tienda online</a>, <a href="https://www.prestashop.com/blog/es/proveedores-temas-legales-y-plataformas-de-pago/">buscar proveedores</a> y <a href="https://www.prestashop.com/blog/es/desarrollando-la-tienda-sobre-prestashop/">desarrollar tu tienda en Prestashop</a>. Llegados a la fase donde ya lo tenemos todo online bien alojado en <a href="https://www.prestashop.com/es/descarga">Prestashop Cloud</a> o en nuestro propio servidor (te recomiendo <a href="http://jordiob.com/2015/10/hosting-prestashop-loading-es-una-de-las-mejores-alternativas/" target="_blank">loading.es, partner oficial de hosting de Prestashop</a>), ¿qué puedes hacer para atraer tráfico?</p>
+<p>Básicamente, tienes <b>dos métodos</b>: el corto plazo y el medio-largo plazo.<span id="more-13765"></span></p>
+<h2><b>¿Quieres tráfico a corto plazo? </b></h2>
+<p>La mejor alternativa que tienes es utilizar el CPC o PPC (Coste Por Clic o Pay Per Click). Las redes que puedes utilizar son, por ejemplo, <a href="https://www.facebook.com/business/products/ads">Facebook Ads</a>, <a href="https://secure.bingads.microsoft.com/">Bing Ads</a> o el archiconocido <a href="https://www.google.es/adwords/">Adwords</a> de Google. El pago por clic te garantiza tráfico rápido y cualificado (siempre que elijas bien las palabras clave y segmentación de las campañas).</p>
+<p>Otra <b>alternativa a corto plazo</b> pagando es contratar publicidad en blogs, revistas o medios donde aparecer, ya sea a través de reseñas como a través de banners.</p>
+<h2><b>¿Quieres tráfico a medio – largo plazo?</b></h2>
+<p>Aquí ya tienes más alternativas:</p>
+<ul>
+<li>Posicionamiento orgánico (SEO)</li>
+<li>Las redes sociales</li>
+<li>Emailings</li>
+<li>Tráfico de referencia</li>
+<li>Tráfico directo</li>
+</ul>
+<p>Del SEO se ha hablado muchísimas veces en este mismo blog. El posicionamiento orgánico <b>tiene 3 patas básicas</b>:</p>
+<ul>
+<li>SEO on page</li>
+<li>Contenidos</li>
+<li>Linkbuilding</li>
+</ul>
+<p>Combina bien las tres estrategias y conseguirás tráfico a medio – largo plazo con palabras clave de short tail, mid tail y long tail.</p>
+<p>Sobre el tráfico de <b>redes sociales</b>, consiste como el SEO en picar piedra. Compartir contenidos interesantes para tu target e incentivar que te sigan en las redes a través de sorteos o promociones. Las redes sociales <b>no suelen ser fuentes de conversión directa</b> (no para todos los productos), pero sí pueden servirnos para que nos conozcan nuevos usuarios, para comunicarnos con ellos, para servicio de atención al cliente, para lanzar promociones y para fidelizar.</p>
+<p>Los <b>emailings</b> llegan también con el tiempo. <b>Generar una base de datos propia con usuarios cualificados lleva su tiempo</b>. En ella puedes ir añadiendo tanto a los clientes que te compran como a los usuarios interesados en recibir comunicaciones de tu tienda. La mejor manera para conseguir registros nuevos es incentivar el registro, bien sea con descuentos, promociones o regalos como ebooks, descargas gratuitas… a la gente le gusta recibir cosas gratis y están dispuestos a dejar su email para conseguirlas.</p>
+<p>El tráfico de <b>referencia</b> se construye poco a poco, como el SEO. <b>Conseguir que otras webs hablen de nosotros y nos enlacen es una muy buena fuente de tráfico cualificado</b>, siempre que dichas webs coincidan con nuestra temática y tengan usuarios de nuestro target. Podemos incentivar el tráfico de referencia (y las ventas) con un programa de <b>afiliación</b> (ofreciendo una comisión por cada venta que nos traiga dicho afiliado).</p>
+<p>Y lo último que suele llegar es el <b>tráfico directo</b>. Gente que ya te conoce y que entra directamente en tu página, léase, usuarios que nos conocen y que repiten. Este es el mejor tráfico. No tienes que venderle nada, no tienes gastos de captación y convierte bien. Para llegar a conseguir dicho tráfico, tiene que pasar tiempo y entran en juego cosas como un buen precio, un buen servicio o una buena reputación online, así como otras estrategias como programas que incentiven la repetición de compra (puntos, por ejemplo).</p>
+<p>Ahora que tienes (casi) todas las soluciones de generación de tráfico sobre la mesa, a planificar y a captar.</p>
+<p>&nbsp;</p>
+<p><a href="https://www.prestashop.com/blog/es/files/2015/07/jordi.jpg"><img class=" wp-image-13125 alignleft" alt="Jordi" src="https://www.prestashop.com/blog/es/files/2015/07/jordi.jpg" width="80" height="75" /></a></p>
+<p>Jordi Ordóñez, consultor en eCommerce con 15 años de experiencia en proyectos online (<a href="www.jordiob.com">www.jordiob.com</a>). Formador en eCommerce para empresas y particulares.</p>
+<p>&nbsp;</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/publicando-tu-tienda-y-dandole-difusion/">Publicando tu tienda y dándole difusión</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/es/publicando-tu-tienda-y-dandole-difusion/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>
